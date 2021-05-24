@@ -1,2 +1,5 @@
 # Web-Application
-This is a web application for association between genetypes and phenotypes 
+This is a Java web application focusing on relationship between genotypes and phenotypes.
+
+# Implementation
+Java | Servlets | JSP | MySQL
